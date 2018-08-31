@@ -66,6 +66,6 @@ invaliadTime: 1440   #失效时间，单位：分钟
 enanbleSyn: N    #是否启动定时同步客户数据，Y为是，N为否
 synFrequency: 120  #同步客户数据频率（xx分钟同步一次），单位：分钟
 
-test: kkkkkkkkkkkkkk
+test: kkkkeeeeeeeeeeeeeeeeeeeeeeeeeekkkkk
 
  
